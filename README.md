@@ -25,8 +25,8 @@ Project 3: Data Visualization
  
 ## Contact Information
 Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can contact me through the following channels:
-- Email: deanna.johnson@example.com
-- LinkedIn: [Deanna Johnson](https://www.linkedin.com/in/deannajohnson/)
+- Email: deannajohnson222@gmail.com
+- LinkedIn:(http://linkedin.com/in/deanna-johnson-43790416)
  
 Thank you for visiting my GitHub profile!
 --->
