@@ -13,18 +13,13 @@ Here are some of the projects I have worked on during my Udacity Business Analyt
  
 Project 1: Exploratory Data Analysis
     - Description: Analyzed a dataset to uncover insights and trends, and presented findings using visualizations.
-    - Technologies used: Python, Pandas, Matplotlib
- 
-Project 2: A/B Testing
-    - Description: Conducted an A/B test to evaluate the impact of a new feature on user engagement.
-    - Technologies used: Python, Pandas, NumPy, Statistical Analysis
+    - Technologies used: Tableau
  
 Project 3: Data Visualization
     - Description: Created interactive visualizations to communicate data-driven insights effectively.
     - Technologies used: Tableau, Data Visualization Best Practices
  
 ## Contact Information
-Feel free to reach out to me if you have any questions or would like to collaborate on a project. You can contact me through the following channels:
 - Email: deannajohnson222@gmail.com
 - LinkedIn:(http://linkedin.com/in/deanna-johnson-43790416)
  
