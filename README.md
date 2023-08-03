@@ -15,7 +15,7 @@ Project 1: Exploratory Data Analysis
     - Description: Analyzed a dataset to uncover insights and trends, and presented findings using visualizations.
     - Technologies used: Tableau
  
-Project 3: Data Visualization
+Project 2: Data Visualization
     - Description: Created interactive visualizations to communicate data-driven insights effectively.
     - Technologies used: Tableau, Data Visualization Best Practices
  
